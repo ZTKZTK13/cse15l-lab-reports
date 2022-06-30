@@ -11,7 +11,7 @@
 2. b
 3. c
 ---
-'backticks'
-'''
+`backticks`
+```
 backticks block
-'''
+```
