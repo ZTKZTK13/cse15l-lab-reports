@@ -34,9 +34,23 @@ Now, let's see some basic commands that can be used to this git bash terminal.
   ![image](pwd.png)
 
 * `mkdir`: make a new directory.
+
+  ![image](mkdir.png)
+
 * `cd`: change current working directory to a certain directory.
+
+  ![image](cd.png)
+
 * `cd ..`: change to the parent directory of current working directory.
+
+  ![image](cd_...png)
+
 * `cd ~`: change to the home directory.
+
+  ![image](cd_~.png)
+
 * `cat`: show the content of a specific file.
+
+  ![image](cat.png)
 
 Congratulations! You completed this tutorial! Now try different combinations of these useful commands by yourself, and have fun!
