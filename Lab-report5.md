@@ -55,3 +55,4 @@ This result should align with the expected result of this program. Hope this hel
 
 **Part 2: Reflection**
 
+Through my experience in the second half of this quarter in the lab, I learned a very fantastic way to edit files within Linux terminal, that is Vim. Before, I never know that I can edit a .java file or a .txt file within the terminal, and consequently I always export the file to my local computer to edit it. I think Vim is a very convenient and portable tool and command to edit file because it has plenty of options and functions that I can choose to edit my file, such as deleting by a word and deleting by multiple words in one time. Besides, the skill to debug is also very helpful for me to deal with the bugs (quite much) in my program. With the skill to check and manage working directory, it is easier for me to deal with those bugs leaded by that files are in different directories.
